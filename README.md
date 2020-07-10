@@ -1,4 +1,4 @@
-### Hi there 👋
+### About :information_source:
 
 Here are some ideas to get you started:
 
