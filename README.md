@@ -1,6 +1,4 @@
-### About :information_source:
-
-Here are some ideas to get you started:
+### :information_source: About
 
 - 🔭 I’m currently working at wappier
 - 🌱 I’m currently trying to learn Python 
