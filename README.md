@@ -2,9 +2,9 @@
 <h4>My passion is to facilitate the creation of cut-edge tech products.</h4>
 
 - 🔭 I’m currently working at [wappier](https://wappier.com/)
-- 👯 I’m looking to collaborate on OSS **non-tech parts**
-- 👨‍💻 All of my projects are available at [ntemposd.me](ntemposd.me)
-- 💬 Ask me about **product related matters**
+- 👯 I’m looking to collaborate on OSS non-tech parts
+- 👨‍💻 You can see some of my past projects at [ntemposd.me](ntemposd.me)
+- 💬 Ask me about product related matters and community building
 
 <h4>Far away from production environments, I sometimes code.</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntemposd&show_icons=true&locale=en&layout=compact" alt="ntemposd" /></p>
