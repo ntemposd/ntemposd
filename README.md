@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dimitris!</h1>
+<h1>Hi 👋, I'm Dimitri!</h1>
 <h4>My passion is to facilitate the creation of cut-edge tech products.</h4>
 
 - 🔭 I’m currently working at [wappier](https://wappier.com/)
