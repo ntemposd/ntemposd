@@ -1,11 +1,11 @@
-<h1>Hi 👋, I'm Dimitri!</h1>
+<h1>Hi 👋</h1>
 <p>My passion is to facilitate the creation of cut-edge tech products.</p>
 
 - 💻 I’m currently based in Thessaloniki and working for [wappier](https://wappier.com/)
-- 👨‍You can see some of my past projects at [ntemposd.me](ntemposd.me)
+- 👨‍You can see some of my past works at [ntemposd.me](ntemposd.me)
 - 💬 Ask me about product related matters and community building
 
-<p>Far away from production environments, I sometimes code.</p>
+<p>Far away from production environments, I sometimes try coding.</p>
 
 <!--<<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntemposd&show_icons=true&locale=en&layout=compact" alt="ntemposd" /></p>-->
 
