@@ -1,6 +1,8 @@
-<h1>👋</h1>
-<p>My passion is to facilitate the creation of cut-edge tech products.</p>
+<h1>👋 Hi there!</h1> 
+<p>My passion is to envision and facilitate the creation of cut edge tech products.</p>
 
 -  📍 I’m currently based in [Halkidiki, Greece](https://goo.gl/maps/PzS5q2YAy21KRo588)
-- 👨‍ You can see some of my past works at [ntemposd.me](https://www.ntemposd.me/)
+-  👨‍ You can learn more about me at [ntemposd.me/about](https://www.ntemposd.me/about)
+-  :wrench: See some of my past works at [ntemposd.me/docs](https://www.ntemposd.me/docs)
+-  :book: Read my blog at [ntemposd.me/blog](https://www.ntemposd.me/blog)
 - 💬 Ask me about product related matters and community building
