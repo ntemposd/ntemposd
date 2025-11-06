@@ -2,6 +2,6 @@
 <p>My passion is to envision and lead the creation and continuous improvement of contemporary tech products.</p>
 
 -  I am currently based in 📍[Thessaloniki](https://goo.gl/maps/W5Hchwq6Ri1MevUj9)
--  Learn more :man:[About me](https://www.ntemposd.me/about)
--  Browse some of my past :wrench:[Works](https://www.ntemposd.me/works)
--  Read my :book:[Blog](https://www.ntemposd.me/blog)
+-  Learn more :man:[About me](https://ntemposd.me/about)
+-  Browse my :wrench:[Projects](https://ntemposd.me/projects)
+-  Read my :book:[Posts](https://ntemposd.me/writing)
