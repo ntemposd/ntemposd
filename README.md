@@ -1,7 +1,7 @@
 ## Hi, I'm Dimitrios 👋
 
-Technical Product Manager focused on APIs, integrations, and data-driven systems.  
-I build and experiment with tools that connect workflows, structure information, and reduce complexity.
+Technical Product Manager operating at the intersection of product strategy and technical execution.  
+I build systems, experiment with APIs and LLM workflows, and explore structured problem-solving through code.
 
 Based in 📍Thessaloniki  
 
